@@ -1,4 +1,4 @@
-<!--
+
 <h1 align="center">Hi 👋, I'm Mattia</h1>
 <h3 align="center">Love building intuitive web apps to make the digital world more interactive, one commit at a time.</h3>
 
@@ -19,4 +19,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mattcontest&show_icons=true&locale=en&layout=compact" alt="mattcontest" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mattcontest&" alt="mattcontest" /></p>
--->
+
