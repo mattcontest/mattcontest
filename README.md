@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there 👋, I'm Mattia</h1>
+<h1 align="center">Hi there, I'm Mattia 👋</h1>
 <h3 align="center">Love building intuitive web apps to make the digital world more interactive, one commit at a time.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mattcontest" alt="mattcontest" /></a> </p>
