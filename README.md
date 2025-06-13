@@ -6,9 +6,8 @@
 
 <p align="center">
   
-- 🔭 I’m currently working on **TripleTen** 
-
-- 💬 Ask me about **React, Express and Node.js**
+- 🔭 I’m currently focused on mastering **React, modern CSS3, accessibility (a11y), and full-stack JavaScript with Node.js and Express.**
+- 💬 Eager to collaborate on **React projects, design systems, or a11y-focused UIs.**
 
 </p>
 
